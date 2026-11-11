@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+opencv-python-headless
+numpy
+python-multipart
+ultralytics
+torch==2.12.0
+torchvision==0.27.0
+psycopg2-binary
+python-dotenv
+sqlalchemy
